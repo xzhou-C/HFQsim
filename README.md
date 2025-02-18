@@ -1,10 +1,12 @@
 ####################################################################################
 If you use these codes in your research, please cite the following manuscript:
 
-Reference: Zhou, X., and Y. Ben-Zion (2025), A simulator of earthquakes and aseismic slip on a heterogeneous fault (HFQsim) with static/kinetic friction and temperature dependent creep, J. Geophys. Res., in review.                                 
-Contact: Xiaoyu Zhou, zhou226@usc.edu                        
+Zhou, X., and Y. Ben-Zion (2025), A simulator of earthquakes and aseismic slip on a heterogeneous fault (HFQsim) with static/kinetic friction and temperature dependent creep, J. Geophys. Res., in review.                                     
 
+This application is also available on Statewide California Earthquake Center (SCEC) Quakeworx gateway via:
+https://qwx1.onescienceway.com/app/qwx1fabiohfqsim1
 
+Contact: Xiaoyu Zhou, zhou226@usc.edu  
 ####################################################################################
 
 
